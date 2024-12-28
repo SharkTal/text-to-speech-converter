@@ -11,6 +11,7 @@
 - 支持多种音色
 - 参考Azure语音服务文档 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=macos%2Cterminal&pivots=programming-language-python
 
+![screenshot](image.png)
 ## 功能
 
 - 上传文本文件并将其转换为MP3音频文件
