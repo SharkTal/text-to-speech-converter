@@ -10,7 +10,7 @@
 - 支持长文本，自动分割并合并音频
 - 简单的Web界面，易于使用
 - 支持多种语言
-- 支持多种音色
+- 支持多种音色 https://techcommunity.microsoft.com/blog/azure-ai-services-blog/9-more-realistic-ai-voices-for-conversations-now-generally-available/4099471
 - 参考Azure语音服务文档 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=macos%2Cterminal&pivots=programming-language-python
 
 ## 功能
@@ -67,7 +67,7 @@ This is a text-to-speech converter built using Azure Speech Services and Gradio.
 - Support for long texts with automatic splitting and merging of audio
 - Simple web interface for easy use
 - Support for multiple languages
-- Support for multiple voices
+- Support for multiple voices， https://techcommunity.microsoft.com/blog/azure-ai-services-blog/9-more-realistic-ai-voices-for-conversations-now-generally-available/4099471
 - Refer to Azure Speech Services documentation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=macos%2Cterminal&pivots=programming-language-python
 
 
