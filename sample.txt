@@ -1,0 +1,9 @@
+Microsoft is always finding new ways to use AI to increase creativity, productivity, and skills. With the advent of high-quality, human-like AI voices, industries and applications are being transformed, making it easier and more natural to interact with devices and services.
+
+ 
+
+Now, in human-bot conversational interactions, AI can produce more natural, fluent, and high-quality responses than ever before with the power of Large Language Models (LLMs) such as Azure OpenAI GPT. Consequently, when engaging in verbal conversations, the demand for naturalness and expressiveness in Text-to-Speech (TTS) voices is higher than ever.
+
+ 
+
+Today, we are excited to announce that 9 new realistic voices are generally available which gives you better choices and variety for business scenarios using conversation. The new realistic voices are perfect matches for any application necessitating lifelike speech interactions, including chatbots, voice assistants, gaming, e-learning, entertainment, and more. For example, for voice agent scenario, Yellow.AI uses Ava voice for the customer support.
