@@ -2,6 +2,15 @@
 
 这是一个使用Azure语音服务和Gradio构建的文本到语音转换器。
 
+## 特性
+
+- 上传文本文件并将其转换wav音频文件
+- 支持长文本，自动分割并合并音频
+- 简单的Web界面，易于使用
+- 支持多种语言
+- 支持多种音色
+- 参考Azure语音服务文档 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=macos%2Cterminal&pivots=programming-language-python
+
 ## 功能
 
 - 上传文本文件并将其转换为MP3音频文件
@@ -12,7 +21,7 @@
 
 1. 克隆仓库：
 
-```
+```bash
 git clone https://github.com/SharkTal/text-to-speech-converter.git
 
 cd text-to-speech-converter
@@ -20,13 +29,16 @@ cd text-to-speech-converter
 
 2. 安装依赖：
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
 3. 设置Azure语音服务凭证：
 在系统环境变量中设置 `SPEECH_KEY` 和 `SPEECH_REGION`。
-
+```bash
+export SPEECH_KEY=your-key
+export SPEECH_REGION=your-region
+```
 ## 使用
 
 运行以下命令启动应用：
@@ -52,12 +64,17 @@ This is a text-to-speech converter built using Azure Speech Services and Gradio.
 - Upload text files and convert them to MP3 audio files
 - Support for long texts with automatic splitting and merging of audio
 - Simple web interface for easy use
+- Support for multiple languages
+- Support for multiple voices
+- Refer to Azure Speech Services documentation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=macos%2Cterminal&pivots=programming-language-python
+
+
 
 ## Installation
 
 1. Clone the repository:
 
-```
+```bash
 git clone https://github.com/SharkTal/text-to-speech-converter.git 
 cd text-to-speech-converter
 ```
@@ -72,11 +89,16 @@ pip install -r requirements.txt
 3. Set up Azure Speech Service credentials:
 Set `SPEECH_KEY` and `SPEECH_REGION` as system environment variables.
 
+```bash
+export SPEECH_KEY=your-key
+export SPEECH_REGION=your-region
+```
+
 ## Usage
 
 Run the following command to start the application:
 
-```
+```bash
 python speech_synthesis_v3.py
 ```
 
