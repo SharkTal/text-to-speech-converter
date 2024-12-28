@@ -105,10 +105,10 @@ def process_file(file):
 # 创建 Gradio 界面
 iface = gr.Interface(
     fn=process_file,
-    inputs=gr.File(label="上传文本文件 (.txt)"),
-    outputs=gr.File(label="下载音频文件 (.wav)"),
+    inputs=gr.File(label="上传文本文件 upload file (.txt)"),
+    outputs=gr.File(label="下载音频文件 download audio file (.wav)"),
     title="Text to Speech Converter",
-    description="上传一个文本文件，将其转换为音频文件并下载。"
+    description="上传一个文本文件，将其转换为音频文件并下载。 Upload a text file and convert it to an audio file."
 )
 
 # 启动 Gradio 应用
