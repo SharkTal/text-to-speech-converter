@@ -10,7 +10,7 @@
 - 支持长文本，自动分割并合并音频
 - 简单的Web界面，易于使用
 - 支持多种语言
-- 支持多种音色 https://techcommunity.microsoft.com/blog/azure-ai-services-blog/9-more-realistic-ai-voices-for-conversations-now-generally-available/4099471
+- 支持多种音色 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts
 - 参考Azure语音服务文档 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=macos%2Cterminal&pivots=programming-language-python
 
 ## 功能
