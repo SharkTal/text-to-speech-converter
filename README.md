@@ -67,7 +67,7 @@ This is a text-to-speech converter built using Azure Speech Services and Gradio.
 - Support for long texts with automatic splitting and merging of audio
 - Simple web interface for easy use
 - Support for multiple languages
-- Support for multiple voices， https://techcommunity.microsoft.com/blog/azure-ai-services-blog/9-more-realistic-ai-voices-for-conversations-now-generally-available/4099471
+- Support for multiple voices， [https://techcommunity.microsoft.com/blog/azure-ai-services-blog/9-more-realistic-ai-voices-for-conversations-now-generally-available/4099471](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts)
 - Refer to Azure Speech Services documentation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech?tabs=macos%2Cterminal&pivots=programming-language-python
 
 
